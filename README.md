@@ -60,6 +60,14 @@ Key risk variables tested:
 
 ---
 
+## 🚀 How to Run the Code
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/GiwrgosAva/Hesselo-Feasibility-Study.git](https://github.com/GiwrgosAva/Hesselo-Feasibility-Study.git)
+   cd Hesselo-Feasibility-Study
+
+
 ## 📂 Repository Structure
 
 ```text
@@ -71,9 +79,3 @@ Key risk variables tested:
 │   └── Hesselo_Feasibility_Final_Presentation.pdf
 └── README.md
 
-## 🚀 How to Run the Code
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/GiwrgosAva/Hesselo-Feasibility-Study.git](https://github.com/GiwrgosAva/Hesselo-Feasibility-Study.git)
-   cd Hesselo-Feasibility-Study
